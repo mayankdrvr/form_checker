@@ -16,7 +16,7 @@ HTML, CSS, Javascript
 
 
 ## Lessons Learned
-- Avoiding redundant code in .js file by passing data in the form of an array. 
+- Avoiding redundant code in javascript by passing data in the form of an array. 
 - Validating email address format
 
 
