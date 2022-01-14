@@ -8,33 +8,31 @@ This is a form to register user identification details for your website. It vali
 
 ![form-checker](https://user-images.githubusercontent.com/87348490/149462713-fed684e1-1011-4408-a322-2d1d1ed8de5c.gif)
 
-## Tech Stack
+## Technologies Used
 
 HTML, CSS, Javascript
 
+## Google Lighthouse webpage perfomance report 
 
+The full report can be accessed at https://drive.google.com/file/d/1VNm7LYlPdw9NnyqPrruZKtw2EoZWngYd/view?usp=sharing
+
+![form-checker](https://user-images.githubusercontent.com/87348490/149521933-c48ea76f-8ceb-4b83-bb59-9e2b336fa14e.png)
 
 ## Lessons Learned
 - Avoiding redundant code in javascript by passing data in the form of an array. 
 - Validating email address format
 
-
 ## Authors
 
 [@mayankdrvr](https://www.github.com/mayankdrvr)
-
 
 ## Deployment
 
 To deploy this project on https://netlify.com, simply login to your netlify account and go to https://app.netlify.com/drop and simply drag and drop the folder containing .html, .css & .js files in the section "Drag and drop your site output folder here".
 
-
-
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
 
 ## Run Locally
 
