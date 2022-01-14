@@ -6,8 +6,7 @@ This is a form to register user identification details for your website. It vali
 
 ## Demo
 
-![form-checker](https://user-images.githubusercontent.com/87348490/149462147-e592796a-e063-4386-b7f1-79621c234e16.gif)
-
+![form-checker](https://user-images.githubusercontent.com/87348490/149462514-5c491501-a79c-4614-8bef-76043c159ce5.gif)
 
 ## Tech Stack
 
