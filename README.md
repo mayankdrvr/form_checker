@@ -10,7 +10,9 @@ This is a form to register user identification details for your website. It vali
 
 ## Technologies Used
 
-HTML, CSS, Javascript
+<a href="https://www.freecodecamp.org/news/html-css-and-javascript-explained-for-beginners/" target="_blank"><img align="center" src="https://www.linkpicture.com/q/html.svg" alt="mayankdv"  /></a>
+<a href="https://www.freecodecamp.org/news/html-css-and-javascript-explained-for-beginners/" target="_blank"><img align="center" src="https://www.linkpicture.com/q/css.svg" alt="mayankdv"  /></a>
+<a href="https://www.freecodecamp.org/news/html-css-and-javascript-explained-for-beginners/" target="_blank"><img align="center" src="https://www.linkpicture.com/q/js.svg" alt="mayankdv"  /></a>
 
 ## Google Lighthouse webpage perfomance report 
 
