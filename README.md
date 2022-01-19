@@ -4,10 +4,10 @@
 It verifies the user registration form on client side. Its a small module of a full stack website project. This project is hosted at https://register-form-checker.netlify.app/
 
 Project specifications-
-- Shows error message when size of username does not match the range specified 
-- Uses regex for email template checking
-- Verifies password by asking user to enter password twice
-- Passes all inputs in the form of an array to check if any field has been left blank
+- Shows error message when size of username does not match the range specified.
+- Uses regex for email template checking.
+- Verifies password by asking user to enter password twice.
+- Passes all inputs in the form of an array to check if any field has been left blank.
 
 ## Demo
 
