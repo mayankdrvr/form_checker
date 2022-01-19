@@ -1,8 +1,12 @@
 
 # Form Checker
 
-This is a form to register user identification details for your website. It validates the format of username, email address and password. Its a small module of a full stack website project. 
-
+It verifies the user registration form on client side. Its a small module of a full stack website project. This project is hosted at https://register-form-checker.netlify.app/
+Project specifications-
+- Shows error message when size of username does not match the range specified 
+- Uses regex for email template checking
+- Verifies password by asking user to enter password twice
+- Passes all inputs in the form of an array to check if any field has been left blank
 
 ## Demo
 
@@ -22,7 +26,7 @@ The full report can be accessed at https://drive.google.com/file/d/1VNm7LYlPdw9N
 
 ## Lessons Learned
 - Avoiding redundant code in javascript by passing data in the form of an array. 
-- Validating email address format
+- Validating email address format using regex.
 
 ## Authors
 
