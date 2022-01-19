@@ -41,7 +41,7 @@ To deploy this project on https://netlify.com, simply login to your netlify acco
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## Run Locally
+## Run on Local System
 
 - Clone the project
 
